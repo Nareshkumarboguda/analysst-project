@@ -1,1 +1,1 @@
-# analysst-project
+# analystt-project
