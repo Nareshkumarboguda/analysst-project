@@ -1,0 +1,19 @@
+.pageNumbersBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px red solid; */
+}
+.nums{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 0%;
+    background-color: transparent;
+    color: black;
+}
+.selected-page{
+    background-color: red;
+    color:white;
+    border-radius: 0%;
+
+}

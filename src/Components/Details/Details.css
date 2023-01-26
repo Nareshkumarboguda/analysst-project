@@ -1,0 +1,15 @@
+.detailsCard{
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    box-shadow: 1px 1px 2px 2px #bebebe;
+    border-radius: 15px;
+    margin-top: 30px;
+    padding: 15px;
+
+}
+.detail{
+    margin-right: 15px;
+
+
+}
